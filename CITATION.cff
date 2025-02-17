@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: springtime-arctic-ozone
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ales
+    family-names: Kuchar
+    orcid: 'https://orcid.org/0000-0002-3672-6626'
+    email: ales.kuchar@boku.ac.at
+    affiliation: BOKU University
+  - given-names: 'Jessica '
+    family-names: Kult-Herdin
+    affiliation: BOKU University
+    email: jessica.kult@boku.ac.at
+    orcid: 'https://orcid.org/0000-0003-4874-8176'
+repository-code: >-
+  https://github.com/BOKU-Meteo/springtime-arctic-ozone/tree/main
+license: MIT
+version: v1.0.1
