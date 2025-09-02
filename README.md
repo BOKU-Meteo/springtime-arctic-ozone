@@ -4,7 +4,7 @@
 
 **Harald E. Rieder, Jessica Kult-Herdin and [Ales Kuchar](https://github.com/kuchaale/)**
 
-Accepted in [Frontiers]().
+Accepted in [Frontiers](https://doi.org/10.3389/feart.2025.1610651).
 
 Code used to process and visualise the model and other data outputs in order to reproduce figures in the manuscript. All datasets already preprocessed can be found [here](https://data.mendeley.com/preview/ts4brdbx2h?a=d24a10a6-0cf8-41a6-b67e-5b2ea27cb269).
 
